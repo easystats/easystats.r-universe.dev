@@ -1,0 +1,2 @@
+- https://github.com/r-universe/easystats
+- https://easystats.r-universe.dev/ui#builds
