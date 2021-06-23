@@ -1,0 +1,46 @@
+[
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard"
+  },
+  {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR"
+  },
+  {
+    "package": "effectsize",
+    "url": "https://github.com/easystats/effectsize"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance"
+  },
+  {
+    "package": "see",
+    "url": "https://github.com/easystats/see"
+  },
+  {
+    "package": "modelbased",
+    "url": "https://github.com/easystats/modelbased"
+  },
+  {
+    "package": "correlation",
+    "url": "https://github.com/easystats/correlation"
+  },
+  {
+    "package": "report",
+    "url": "https://github.com/easystats/report"
+  },
+  {
+    "package": "easystats",
+    "url": "https://github.com/easystats/easystats"
+  }
+]
