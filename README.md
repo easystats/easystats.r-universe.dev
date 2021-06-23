@@ -1,5 +1,5 @@
 - https://github.com/r-universe/easystats
-- https://easystats.r-universe.dev/ui#builds
+- https://easystats.r-universe.dev
 
 You can install "easystats" or any other packages like this:
 
